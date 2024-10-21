@@ -39,6 +39,15 @@ TGIF 2024.10.25
 
 ---
 
+## Random Forests
+- **Definition:** An ensemble learning method for classification and regression.
+- **How it works:** Combines multiple decision trees, outputting the most common prediction (classification) or average (regression).
+- **Advantages:** Handles large datasets, reduces overfitting compared to individual decision trees.
+- **Use cases:** Fraud detection, recommendation systems.
+- **Visual:** Diagram showing the aggregation of decision trees in a random forest.
+
+---
+
 ## Cluster Analysis
 - **Definition:** Identifying groups of similar data points in a dataset.
 - **Techniques:** k-means, hierarchical clustering.
@@ -97,6 +106,17 @@ TGIF 2024.10.25
 
 ---
 
+## Generative Adversarial Networks (GANs)
+- **Definition:** A framework where two neural networks (generator and discriminator) compete with each other to generate realistic data.
+- **How it works:** 
+  - The generator creates fake data.
+  - The discriminator tries to identify if the data is real or generated.
+  - The generator improves over time by trying to fool the discriminator.
+- **Use cases:** Image generation, data augmentation, deepfake creation.
+- **Visual:** Diagram showing the generator and discriminator competition.
+
+---
+
 ## Transformers
 - **Definition:** A deep learning model that utilizes self-attention mechanisms to process sequential data.
 - **How it revolutionized NLP:** Use in models like GPT, BERT.
@@ -107,5 +127,5 @@ TGIF 2024.10.25
 
 ## Conclusion
 - AI is a rapidly evolving field that began with basic models like the perceptron.
-- Today, AI technologies like CNNs, RNNs, and Transformers are shaping innovations in various industries.
+- Today, AI technologies like CNNs, RNNs, GANs, and Transformers are shaping innovations in various industries.
 - **Future potential:** AGI (Artificial General Intelligence), ethical concerns, the role of AI in society.
