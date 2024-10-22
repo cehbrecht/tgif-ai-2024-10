@@ -132,3 +132,11 @@ TGIF 2024.10.25
 - AI is a rapidly evolving field that began with basic models like the perceptron.
 - Today, AI technologies like CNNs, RNNs, GANs, and Transformers are shaping innovations in various industries.
 - **Future potential:** AGI (Artificial General Intelligence), ethical concerns, the role of AI in society.
+
+---
+
+## References
+- Janelle Shane. *You Look Like a Thing and I Love You: How AI Works and Why It’s Making the World a Weirder Place*.
+- Janelle Shane's blog: [AIWeirdness.com](https://www.aiweirdness.com)
+- Inga Strümke. [Künstliche Intelligenz, Rheinwerk](https://www.rheinwerk-verlag.de/kuenstliche-intelligenz-wie-sie-funktioniert-und-was-sie-fuer-uns-bedeutet/)
+- Pit Noak, Sophia Sanner. [Künstliche Intelligenz verstehen, Rheinwerk](https://www.rheinwerk-verlag.de/kuenstliche-intelligenz-verstehen-eine-spielerische-einfuehrung/)
