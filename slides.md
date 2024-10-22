@@ -21,6 +21,22 @@ TGIF 2024.10.25
 
 ---
 
+## Cluster Analysis
+- **Definition:** Identifying groups of similar data points in a dataset.
+- **Techniques:** k-means, hierarchical clustering.
+- **Use cases:** Customer segmentation, anomaly detection.
+- **Visual:** Example of a cluster plot.
+
+---
+
+## K-Nearest Neighbors (KNN)
+- **Definition:** A supervised learning algorithm for classification.
+- **How it works:** Finding the nearest 'k' neighbors and classifying based on majority.
+- **Use cases:** Image recognition, recommendation systems.
+- **Visual:** Illustration of KNN in action.
+
+---
+
 ## Neural Networks: Definition
 - **What is a Neural Network (NN)?**
   - A series of algorithms that mimic the operations of a human brain to recognize patterns.
@@ -39,31 +55,6 @@ TGIF 2024.10.25
 
 ---
 
-## Random Forests
-- **Definition:** An ensemble learning method for classification and regression.
-- **How it works:** Combines multiple decision trees, outputting the most common prediction (classification) or average (regression).
-- **Advantages:** Handles large datasets, reduces overfitting compared to individual decision trees.
-- **Use cases:** Fraud detection, recommendation systems.
-- **Visual:** Diagram showing the aggregation of decision trees in a random forest.
-
----
-
-## Cluster Analysis
-- **Definition:** Identifying groups of similar data points in a dataset.
-- **Techniques:** k-means, hierarchical clustering.
-- **Use cases:** Customer segmentation, anomaly detection.
-- **Visual:** Example of a cluster plot.
-
----
-
-## K-Nearest Neighbors (KNN)
-- **Definition:** A supervised learning algorithm for classification.
-- **How it works:** Finding the nearest 'k' neighbors and classifying based on majority.
-- **Use cases:** Image recognition, recommendation systems.
-- **Visual:** Illustration of KNN in action.
-
----
-
 ## Neural Networks: Supervised vs. Unsupervised Learning
 - **Supervised Learning:**
   - The model is trained with labeled data.
@@ -71,14 +62,6 @@ TGIF 2024.10.25
 - **Unsupervised Learning:**
   - The model works with unlabeled data, trying to find hidden patterns.
   - Example: Clustering, dimensionality reduction.
-
----
-
-## Markov Chains
-- **Definition:** A stochastic model that transitions between states with certain probabilities.
-- **How it works:** Next state depends only on the current state, not the sequence of events prior.
-- **Example:** Weather forecasting, page ranking (Google's PageRank).
-- **Visual:** Simple transition diagram.
 
 ---
 
@@ -122,6 +105,20 @@ TGIF 2024.10.25
 - **How it revolutionized NLP:** Use in models like GPT, BERT.
 - **Applications:** Text generation, translation, summarization.
 - **Visual:** High-level transformer architecture.
+
+---
+
+## Importance of Data in AI
+- **Data as the Foundation of AI:** 
+  - Data is essential for training AI models to recognize patterns, make decisions, and solve problems.
+- **Training Data:** 
+  - The quality and quantity of data used to train a model greatly impact its performance.
+  - **Supervised learning:** Requires labeled data.
+  - **Unsupervised learning:** Works with unlabeled data, finds hidden patterns.
+- **Data Challenges:**
+  - **Overfitting:** When a model learns from noisy or irrelevant data.
+  - **Bias in Data:** Poor quality or biased data can lead to unfair or inaccurate models.
+- **Data Preprocessing:** Techniques like normalization, augmentation, and splitting (train/test) are used to improve the performance of models.
 
 ---
 
