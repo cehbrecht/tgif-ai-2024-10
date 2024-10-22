@@ -136,7 +136,7 @@ TGIF 2024.10.25
 ---
 
 ## References
-- Janelle Shane. *You Look Like a Thing and I Love You: How AI Works and Why It’s Making the World a Weirder Place*.
+- Janelle Shane. [You Look Like a Thing and I Love You](https://www.janelleshane.com/book-you-look-like-a-thing)
 - Janelle Shane's blog: [AIWeirdness.com](https://www.aiweirdness.com)
 - Inga Strümke. [Künstliche Intelligenz, Rheinwerk](https://www.rheinwerk-verlag.de/kuenstliche-intelligenz-wie-sie-funktioniert-und-was-sie-fuer-uns-bedeutet/)
 - Pit Noak, Sophia Sanner. [Künstliche Intelligenz verstehen, Rheinwerk](https://www.rheinwerk-verlag.de/kuenstliche-intelligenz-verstehen-eine-spielerische-einfuehrung/)
