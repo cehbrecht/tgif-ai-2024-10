@@ -12,6 +12,8 @@ TGIF 2024.10.25
 - **Key areas of AI:** Machine Learning, Natural Language Processing, Robotics, etc.
 - **Why AI matters today:** Its increasing role in automation, decision-making, healthcare, and more.
 
+Image: images/book/AI-learning.jpeg
+
 ---
 
 ## Cluster Analysis
@@ -34,12 +36,16 @@ TGIF 2024.10.25
 - **Use cases:** Image recognition, recommendation systems.
 - **Visual:** Illustration of KNN in action.
 
+Image: images/book/KNN-Cluster.jpeg
+
 ---
 
 ## Early AI: The Perceptron
 - Developed in 1957 by Frank Rosenblatt.
 - The perceptron: the simplest form of a neural network used for binary classification.
 - Image of a perceptron structure (input, weight, output).
+
+Image: images/book/NN-simple.jpeg
 
 ---
 
@@ -48,6 +54,8 @@ TGIF 2024.10.25
   - A series of algorithms that mimic the operations of a human brain to recognize patterns.
 - **Basic architecture of a NN:** Input layer, hidden layers, output layer.
 - Image of a simple NN architecture.
+
+Image: images/book/NN.jpeg
 
 ---
 
@@ -59,6 +67,8 @@ TGIF 2024.10.25
 - **Importance:** Enabled deep networks to learn efficiently.
 - **Visual:** Example of forward and backward propagation with gradient updates.
 
+Image: images/book/NN-backpropagation.jpeg
+
 ---
 
 ## Neural Networks: Supervised vs. Unsupervised Learning
@@ -69,6 +79,8 @@ TGIF 2024.10.25
   - The model works with unlabeled data, trying to find hidden patterns.
   - Example: Clustering, dimensionality reduction.
 
+Image: images/book/NN-supervised.jpeg
+
 ---
 
 ## Convolutional Neural Networks (CNNs)
@@ -76,6 +88,8 @@ TGIF 2024.10.25
 - **Key concepts:** Convolution, pooling, fully connected layers.
 - **Use cases:** Image recognition, video analysis, object detection.
 - **Visual:** CNN architecture overview.
+
+Image: images/book/CNN-2.jpeg
 
 ---
 
@@ -93,6 +107,8 @@ TGIF 2024.10.25
 - **Use cases:** Anomaly detection, image denoising, feature learning.
 - **Visual:** Diagram of an autoencoder.
 
+Image: images/book/AutoEncoder.jpeg
+
 ---
 
 ## Generative Adversarial Networks (GANs)
@@ -104,6 +120,8 @@ TGIF 2024.10.25
 - **Use cases:** Image generation, data augmentation, deepfake creation.
 - **Visual:** Diagram showing the generator and discriminator competition.
 
+Image: images/book/GAN.jpeg
+
 ---
 
 ## Transformers
@@ -111,6 +129,8 @@ TGIF 2024.10.25
 - **How it revolutionized NLP:** Use in models like GPT, BERT.
 - **Applications:** Text generation, translation, summarization.
 - **Visual:** High-level transformer architecture.
+
+Image: images/book/Transformer.jpeg
 
 ---
 
@@ -125,6 +145,8 @@ TGIF 2024.10.25
   - **Overfitting:** When a model learns from noisy or irrelevant data.
   - **Bias in Data:** Poor quality or biased data can lead to unfair or inaccurate models.
 - **Data Preprocessing:** Techniques like normalization, augmentation, and splitting (train/test) are used to improve the performance of models.
+
+Image: images/book/training-data.jpeg
 
 ---
 
