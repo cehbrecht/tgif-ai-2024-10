@@ -12,7 +12,7 @@ TGIF 2024.10.25
 - **Key areas of AI:** Machine Learning, Natural Language Processing, Robotics, etc.
 - **Why AI matters today:** Its increasing role in automation, decision-making, healthcare, and more.
 
-Image: images/book/janelle-ki/3-65_AI-learning.jpeg
+[AI learning](images/book/janelle-ki/3-65_AI-learning.jpeg)
 
 ---
 
@@ -36,7 +36,7 @@ Image: images/book/janelle-ki/3-65_AI-learning.jpeg
 - **Use cases:** Image recognition, recommendation systems.
 - **Visual:** Illustration of KNN in action.
 
-Image: images/book/sophia-ki/9-6_KNN-Cluster.jpeg
+[KNN Cluster](images/book/sophia-ki/9-6_KNN-Cluster.jpeg)
 
 ---
 
@@ -45,7 +45,7 @@ Image: images/book/sophia-ki/9-6_KNN-Cluster.jpeg
 - The perceptron: the simplest form of a neural network used for binary classification.
 - Image of a perceptron structure (input, weight, output).
 
-Image: images/book/sophia-ki/10-6_NN-simple.jpeg
+[Simple NN](images/book/sophia-ki/10-6_NN-simple.jpeg)
 
 ---
 
@@ -55,7 +55,7 @@ Image: images/book/sophia-ki/10-6_NN-simple.jpeg
 - **Basic architecture of a NN:** Input layer, hidden layers, output layer.
 - Image of a simple NN architecture.
 
-Image: images/book/inga-ki/2-5_NN.jpeg
+[Neural Network](images/book/inga-ki/2-5_NN.jpeg)
 
 ---
 
@@ -67,7 +67,7 @@ Image: images/book/inga-ki/2-5_NN.jpeg
 - **Importance:** Enabled deep networks to learn efficiently.
 - **Visual:** Example of forward and backward propagation with gradient updates.
 
-Image: images/book/sophia-ki/12-0_NN-backpropagation.jpeg
+[NN Backpropagation](images/book/sophia-ki/12-0_NN-backpropagation.jpeg)
 
 ---
 
@@ -79,7 +79,7 @@ Image: images/book/sophia-ki/12-0_NN-backpropagation.jpeg
   - The model works with unlabeled data, trying to find hidden patterns.
   - Example: Clustering, dimensionality reduction.
 
-Image: images/book/sophia-ki/11-2_NN-supervised.jpeg
+[NN supervised learning](images/book/sophia-ki/11-2_NN-supervised.jpeg)
 
 ---
 
@@ -89,7 +89,7 @@ Image: images/book/sophia-ki/11-2_NN-supervised.jpeg
 - **Use cases:** Image recognition, video analysis, object detection.
 - **Visual:** CNN architecture overview.
 
-Image: images/book/janelle-ki/3-73_CNN-2.jpeg
+[CNN](images/book/janelle-ki/3-73_CNN-2.jpeg)
 
 ---
 
@@ -107,7 +107,7 @@ Image: images/book/janelle-ki/3-73_CNN-2.jpeg
 - **Use cases:** Anomaly detection, image denoising, feature learning.
 - **Visual:** Diagram of an autoencoder.
 
-Image: images/book/inga-ki/5-2_AutoEncoder.jpeg
+[AutoEncoder](images/book/inga-ki/5-2_AutoEncoder.jpeg)
 
 ---
 
@@ -120,7 +120,7 @@ Image: images/book/inga-ki/5-2_AutoEncoder.jpeg
 - **Use cases:** Image generation, data augmentation, deepfake creation.
 - **Visual:** Diagram showing the generator and discriminator competition.
 
-Image: images/book/inga-ki/5-1_GAN.jpeg
+[GAN](images/book/inga-ki/5-1_GAN.jpeg)
 
 ---
 
@@ -130,7 +130,7 @@ Image: images/book/inga-ki/5-1_GAN.jpeg
 - **Applications:** Text generation, translation, summarization.
 - **Visual:** High-level transformer architecture.
 
-Image: images/book/sophia-ki/14-1_Transformer.jpeg
+[Transformer](images/book/sophia-ki/14-1_Transformer.jpeg)
 
 ---
 
@@ -146,7 +146,7 @@ Image: images/book/sophia-ki/14-1_Transformer.jpeg
   - **Bias in Data:** Poor quality or biased data can lead to unfair or inaccurate models.
 - **Data Preprocessing:** Techniques like normalization, augmentation, and splitting (train/test) are used to improve the performance of models.
 
-Image: images/book/sophia-ki/11-1_training-data.jpeg
+[Training data](images/book/sophia-ki/11-1_training-data.jpeg)
 
 ---
 
