@@ -14,26 +14,32 @@ TGIF 2024.10.25
 
 ---
 
-## Early AI: The Perceptron
-- Developed in 1957 by Frank Rosenblatt.
-- The perceptron: the simplest form of a neural network used for binary classification.
-- Image of a perceptron structure (input, weight, output).
-
----
-
 ## Cluster Analysis
 - **Definition:** Identifying groups of similar data points in a dataset.
+- **History:** 
+  - The concept of clustering has its roots in early statistical studies.
+  - In the 1930s, R. C. Tryon applied clustering techniques to psychological data, marking one of the earliest uses.
+  - The method gained momentum in the 1960s and 1970s with the development of algorithms like k-means (introduced by James MacQueen in 1967).
 - **Techniques:** k-means, hierarchical clustering.
 - **Use cases:** Customer segmentation, anomaly detection.
 - **Visual:** Example of a cluster plot.
+
 
 ---
 
 ## K-Nearest Neighbors (KNN)
 - **Definition:** A supervised learning algorithm for classification.
+- **History:** Introduced by Evelyn Fix and Joseph Hodges in 1951.
 - **How it works:** Finding the nearest 'k' neighbors and classifying based on majority.
 - **Use cases:** Image recognition, recommendation systems.
 - **Visual:** Illustration of KNN in action.
+
+---
+
+## Early AI: The Perceptron
+- Developed in 1957 by Frank Rosenblatt.
+- The perceptron: the simplest form of a neural network used for binary classification.
+- Image of a perceptron structure (input, weight, output).
 
 ---
 
