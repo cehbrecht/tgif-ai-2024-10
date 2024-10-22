@@ -34,7 +34,6 @@ TGIF 2024.10.25
 - **History:** Introduced by Evelyn Fix and Joseph Hodges in 1951.
 - **How it works:** Finding the nearest 'k' neighbors and classifying based on majority.
 - **Use cases:** Image recognition, recommendation systems.
-- **Visual:** Illustration of KNN in action.
 
 [KNN Cluster](images/book/sophia-ki/9-6_KNN-Cluster.jpeg)
 
@@ -43,7 +42,6 @@ TGIF 2024.10.25
 ## Early AI: The Perceptron
 - Developed in 1957 by Frank Rosenblatt.
 - The perceptron: the simplest form of a neural network used for binary classification.
-- Image of a perceptron structure (input, weight, output).
 
 [Simple NN](images/book/sophia-ki/10-6_NN-simple.jpeg)
 
@@ -53,7 +51,6 @@ TGIF 2024.10.25
 - **What is a Neural Network (NN)?**
   - A series of algorithms that mimic the operations of a human brain to recognize patterns.
 - **Basic architecture of a NN:** Input layer, hidden layers, output layer.
-- Image of a simple NN architecture.
 
 [Neural Network](images/book/inga-ki/2-5_NN.jpeg)
 
@@ -65,7 +62,6 @@ TGIF 2024.10.25
   - Gradually adjusts weights through gradient descent based on the error between predicted and actual output.
   - Propagates the error backward through the network.
 - **Importance:** Enabled deep networks to learn efficiently.
-- **Visual:** Example of forward and backward propagation with gradient updates.
 
 [NN Backpropagation](images/book/sophia-ki/12-0_NN-backpropagation.jpeg)
 
@@ -87,7 +83,6 @@ TGIF 2024.10.25
 - **Definition:** A type of NN specifically designed for processing grid-like data such as images.
 - **Key concepts:** Convolution, pooling, fully connected layers.
 - **Use cases:** Image recognition, video analysis, object detection.
-- **Visual:** CNN architecture overview.
 
 [CNN](images/book/janelle-ki/3-73_CNN-2.jpeg)
 
@@ -105,7 +100,6 @@ TGIF 2024.10.25
 - **Definition:** Unsupervised learning algorithm used for data compression and representation learning.
 - **Structure:** Encoder compresses data, decoder reconstructs it.
 - **Use cases:** Anomaly detection, image denoising, feature learning.
-- **Visual:** Diagram of an autoencoder.
 
 [AutoEncoder](images/book/inga-ki/5-2_AutoEncoder.jpeg)
 
@@ -118,7 +112,6 @@ TGIF 2024.10.25
   - The discriminator tries to identify if the data is real or generated.
   - The generator improves over time by trying to fool the discriminator.
 - **Use cases:** Image generation, data augmentation, deepfake creation.
-- **Visual:** Diagram showing the generator and discriminator competition.
 
 [GAN](images/book/inga-ki/5-1_GAN.jpeg)
 
@@ -128,7 +121,6 @@ TGIF 2024.10.25
 - **Definition:** A deep learning model that utilizes self-attention mechanisms to process sequential data.
 - **How it revolutionized NLP:** Use in models like GPT, BERT.
 - **Applications:** Text generation, translation, summarization.
-- **Visual:** High-level transformer architecture.
 
 [Transformer](images/book/sophia-ki/14-1_Transformer.jpeg)
 
