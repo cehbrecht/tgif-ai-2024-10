@@ -113,6 +113,13 @@ TGIF 2024.10.25
 - **Use cases:** Image generation, data augmentation, deepfake creation.
 
 ![GAN](images/book/inga-ki/5-1_GAN.jpeg)
+![GAN 2](images/book/janelle-ki/3-107_GAN.jpeg)
+
+---
+
+## DALL-E
+
+![GAN](images/book/inga-ki/5-4_dalle.jpeg)
 
 ---
 
