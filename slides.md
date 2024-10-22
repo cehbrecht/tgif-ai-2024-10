@@ -112,7 +112,7 @@ TGIF 2024.10.25
   - The generator improves over time by trying to fool the discriminator.
 - **Use cases:** Image generation, data augmentation, deepfake creation.
 
-![GAN](images/book/sophia-ki/5-1_GAN.jpeg)
+![GAN](images/book/inga-ki/5-1_GAN.jpeg)
 
 ---
 
