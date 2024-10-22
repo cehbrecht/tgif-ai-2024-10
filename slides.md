@@ -12,7 +12,7 @@ TGIF 2024.10.25
 - **Key areas of AI:** Machine Learning, Natural Language Processing, Robotics, etc.
 - **Why AI matters today:** Its increasing role in automation, decision-making, healthcare, and more.
 
-[AI learning](images/book/janelle-ki/3-65_AI-learning.jpeg)
+![AI learning](images/book/janelle-ki/3-65_AI-learning.jpeg)
 
 ---
 
@@ -26,7 +26,6 @@ TGIF 2024.10.25
 - **Use cases:** Customer segmentation, anomaly detection.
 - **Visual:** Example of a cluster plot.
 
-
 ---
 
 ## K-Nearest Neighbors (KNN)
@@ -35,7 +34,7 @@ TGIF 2024.10.25
 - **How it works:** Finding the nearest 'k' neighbors and classifying based on majority.
 - **Use cases:** Image recognition, recommendation systems.
 
-[KNN Cluster](images/book/sophia-ki/9-6_KNN-Cluster.jpeg)
+![KNN Cluster](images/book/sophia-ki/9-6_KNN-Cluster.jpeg)
 
 ---
 
@@ -43,7 +42,7 @@ TGIF 2024.10.25
 - Developed in 1957 by Frank Rosenblatt.
 - The perceptron: the simplest form of a neural network used for binary classification.
 
-[Simple NN](images/book/sophia-ki/10-6_NN-simple.jpeg)
+![Simple NN](images/book/sophia-ki/10-6_NN-simple.jpeg)
 
 ---
 
@@ -52,7 +51,7 @@ TGIF 2024.10.25
   - A series of algorithms that mimic the operations of a human brain to recognize patterns.
 - **Basic architecture of a NN:** Input layer, hidden layers, output layer.
 
-[Neural Network](images/book/inga-ki/2-5_NN.jpeg)
+![Neural Network](images/book/inga-ki/2-5_NN.jpeg)
 
 ---
 
@@ -63,7 +62,7 @@ TGIF 2024.10.25
   - Propagates the error backward through the network.
 - **Importance:** Enabled deep networks to learn efficiently.
 
-[NN Backpropagation](images/book/sophia-ki/12-0_NN-backpropagation.jpeg)
+![NN Backpropagation](images/book/sophia-ki/12-0_NN-backpropagation.jpeg)
 
 ---
 
@@ -75,7 +74,7 @@ TGIF 2024.10.25
   - The model works with unlabeled data, trying to find hidden patterns.
   - Example: Clustering, dimensionality reduction.
 
-[NN supervised learning](images/book/sophia-ki/11-2_NN-supervised.jpeg)
+![NN supervised learning](images/book/sophia-ki/11-2_NN-supervised.jpeg)
 
 ---
 
@@ -84,7 +83,7 @@ TGIF 2024.10.25
 - **Key concepts:** Convolution, pooling, fully connected layers.
 - **Use cases:** Image recognition, video analysis, object detection.
 
-[CNN](images/book/janelle-ki/3-73_CNN-2.jpeg)
+![CNN](images/book/janelle-ki/3-73_CNN-2.jpeg)
 
 ---
 
@@ -101,7 +100,7 @@ TGIF 2024.10.25
 - **Structure:** Encoder compresses data, decoder reconstructs it.
 - **Use cases:** Anomaly detection, image denoising, feature learning.
 
-[AutoEncoder](images/book/inga-ki/5-2_AutoEncoder.jpeg)
+![AutoEncoder](images/book/inga-ki/5-2_AutoEncoder.jpeg)
 
 ---
 
@@ -113,7 +112,7 @@ TGIF 2024.10.25
   - The generator improves over time by trying to fool the discriminator.
 - **Use cases:** Image generation, data augmentation, deepfake creation.
 
-[GAN](images/book/inga-ki/5-1_GAN.jpeg)
+![GAN](images/book/sophia-ki/5-1_GAN.jpeg)
 
 ---
 
@@ -122,7 +121,7 @@ TGIF 2024.10.25
 - **How it revolutionized NLP:** Use in models like GPT, BERT.
 - **Applications:** Text generation, translation, summarization.
 
-[Transformer](images/book/sophia-ki/14-1_Transformer.jpeg)
+![Transformer](images/book/sophia-ki/14-1_Transformer.jpeg)
 
 ---
 
@@ -138,7 +137,7 @@ TGIF 2024.10.25
   - **Bias in Data:** Poor quality or biased data can lead to unfair or inaccurate models.
 - **Data Preprocessing:** Techniques like normalization, augmentation, and splitting (train/test) are used to improve the performance of models.
 
-[Training data](images/book/sophia-ki/11-1_training-data.jpeg)
+![Training data](images/book/sophia-ki/11-1_training-data.jpeg)
 
 ---
 
