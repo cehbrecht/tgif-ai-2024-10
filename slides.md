@@ -121,7 +121,7 @@ Got it:
 - Processes sequences, uses memory
 - Use cases: Time-series, NLP
 
-![RNN Structure](images/graph/rnn.png)
+![RNN Structure](images/inet/RNN.png)
 
 ---
 
