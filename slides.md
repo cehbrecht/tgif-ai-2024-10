@@ -121,7 +121,7 @@ Got it:
 - Processes sequences, uses memory
 - Use cases: Time-series, NLP
 
-![RNN Structure](images/book/janelle-ki/3-65_AI-learning.jpeg)
+![RNN Structure](images/graph/rnn.png)
 
 ---
 
