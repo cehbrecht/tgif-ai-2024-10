@@ -69,7 +69,7 @@ TGIF 2024.10.25
 ## Unsupervised Learning
 - Unsupervised: Unlabeled data (clustering, dimensionality reduction)
 
-![NN unsupervised learning](images/book/sophia-ki/11-2_NN-supervised.jpeg)
+![NN unsupervised learning](images/inet/unsupervised-learning.png)
 
 ---
 
