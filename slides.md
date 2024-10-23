@@ -37,7 +37,7 @@ TGIF 2024.10.25
 - **Author:** Frank Rosenblatt (1957)
 - Simple neural network for binary classification
 
-![Simple NN](images/book/sophia-ki/10-6_NN-simple.jpeg)
+![Simple NN](images/book/janelle-ki/3-71_NN-simple.jpeg)
 
 ---
 
