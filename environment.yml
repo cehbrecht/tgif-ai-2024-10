@@ -1,0 +1,9 @@
+name: tgif_ai
+channels:
+ - conda-forge
+dependencies:
+ - python
+ - pip
+ - jupyterlab
+ - matplotlib
+ - networkx
