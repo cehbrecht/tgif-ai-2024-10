@@ -3,6 +3,8 @@
 Angelika & Carsten  
 TGIF 2024.10.25
 
+![AI learning](images/inet/janelle-nn-box.png)
+
 ---
 
 ## Introduction to AI
