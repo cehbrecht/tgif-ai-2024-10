@@ -21,7 +21,7 @@ TGIF 2024.10.25
 - Techniques: k-means, hierarchical
 - Use cases: Customer segmentation, anomaly detection
 
-![Cluster plot](images/book/sophia-ki/9-6_KNN-Cluster.jpeg)
+![Cluster plot](images/book/inga-ki/2-6_cluster.jpeg)
 
 ---
 
