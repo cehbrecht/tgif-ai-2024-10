@@ -57,11 +57,54 @@ TGIF 2024.10.25
 
 ---
 
-## Supervised vs Unsupervised Learning
+## Supervised  Learning
 - Supervised: Labeled data (classification, regression)
-- Unsupervised: Unlabeled data (clustering, dimensionality reduction)
 
 ![NN supervised learning](images/book/sophia-ki/11-2_NN-supervised.jpeg)
+
+---
+
+## Unsupervised Learning
+- Unsupervised: Unlabeled data (clustering, dimensionality reduction)
+
+![NN unsupervised learning](images/book/sophia-ki/11-2_NN-supervised.jpeg)
+
+---
+
+## Autoencoders
+- Data compression, unsupervised learning
+- Use cases: Anomaly detection, feature learning
+
+![AutoEncoder](images/book/inga-ki/5-2_AutoEncoder.jpeg)
+
+---
+
+## Autoencoder: Deepfake
+- Combine Cats and van Gogh
+
+![Cats and van Gogh](images/book/inga-ki/5-3_deepfake.jpeg)  
+
+---
+
+## Generative Adversarial Networks (GANs)
+- Two networks: Generator vs. Discriminator
+- Use cases: Image generation
+
+![GAN](images/book/inga-ki/5-1_GAN.jpeg)  
+
+---
+
+## GAN in Action
+- Learning to paint a Horse
+
+Start:
+![GAN start](images/book/janelle-ki/3-107_GAN-start.jpeg)
+
+Make progress:
+![GAN](images/book/janelle-ki/3-107_GAN.jpeg)
+
+Got it:
+![GAN ok](images/book/janelle-ki/3-107_GAN-ok.jpeg)  
 
 ---
 
@@ -79,23 +122,6 @@ TGIF 2024.10.25
 - Use cases: Time-series, NLP
 
 ![RNN Structure](images/book/janelle-ki/3-65_AI-learning.jpeg)
-
----
-
-## Autoencoders
-- Data compression, unsupervised learning
-- Use cases: Anomaly detection, feature learning
-
-![AutoEncoder](images/book/inga-ki/5-2_AutoEncoder.jpeg)
-
----
-
-## Generative Adversarial Networks (GANs)
-- Two networks: Generator vs. Discriminator
-- Use cases: Image generation, deepfakes
-
-![GAN](images/book/inga-ki/5-1_GAN.jpeg)  
-![GAN Example](images/book/janelle-ki/3-107_GAN.jpeg)
 
 ---
 
