@@ -3,6 +3,8 @@
 Angelika & Carsten  
 TGIF 2024.10.25
 
+![AI learning](images/inet/janelle-nn-box.png)
+
 ---
 
 ## Introduction to AI
@@ -121,7 +123,7 @@ Got it:
 - Processes sequences, uses memory
 - Use cases: Time-series, NLP
 
-![RNN Structure](images/book/janelle-ki/3-65_AI-learning.jpeg)
+![RNN Structure](images/inet/RNN.png)
 
 ---
 
