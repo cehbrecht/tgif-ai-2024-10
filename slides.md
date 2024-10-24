@@ -146,8 +146,9 @@ Learn how to paint a Horse ... got it :)
 ## Transformers
 - Self-attention mechanism
 - Revolutionized NLP (GPT, BERT)
+- Better than RNNs ... knows the context of the words
 
-<img src="images/book/sophia-ki/14-1_Transformer.jpeg" width="600">
+<img src="images/book/sophia-ki/14-1_Transformer.jpeg" width="550">
 
 ---
 
