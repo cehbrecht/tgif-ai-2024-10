@@ -3,7 +3,7 @@
 Angelika & Carsten  
 TGIF 2024.10.25
 
-<img src="images/inet/janelle-nn-box.png" width="400">
+<img src="images/inet/janelle-nn-box.png" width="300">
 
 ---
 
@@ -46,7 +46,7 @@ TGIF 2024.10.25
 - Layers: Input, hidden, output
 - Deep Learning: NN with many hidden layers
 
-<img src="images/book/inga-ki/2-5_NN.jpeg" width="100%">
+<img src="images/book/inga-ki/2-5_NN.jpeg" width="80%">
 
 
 ---
@@ -55,7 +55,7 @@ TGIF 2024.10.25
 - Learning algorithm in NNs
 - Adjusts weights
 
-<img src="images/book/sophia-ki/12-0_NN-backpropagation.jpeg" width="600">
+<img src="images/book/sophia-ki/12-0_NN-backpropagation.jpeg" width="500">
 
 
 ---
@@ -84,7 +84,7 @@ TGIF 2024.10.25
 
 ## Autoencoder: Deepfake
 
-<img src="images/book/inga-ki/5-3_deepfake.jpeg" width="570">
+<img src="images/book/inga-ki/5-3_deepfake.jpeg" width="500">
 
 ---
 
@@ -92,7 +92,7 @@ TGIF 2024.10.25
 - GAN: Generative Adversarial Networks
 - Two networks: Generator vs. Discriminator
 
-<img src="images/book/inga-ki/5-1_GAN.jpeg" width="100%">
+<img src="images/book/inga-ki/5-1_GAN.jpeg" width="80%">
   
 
 ---
@@ -132,7 +132,9 @@ Learn how to paint a Horse ... got it :)
 - Processes sequences, remembers last step
 - Use cases: Time-series, NLP
 
-<img src="images/inet/RNN.png" height="400">
+<br>
+
+<img src="images/inet/RNN.png" height="350">
 
 ---
 
@@ -144,11 +146,10 @@ Learn how to paint a Horse ... got it :)
 ---
 
 ## Transformers
-- Self-attention mechanism
+- Self-attention mechanism: knows the context
 - Revolutionized NLP (GPT, BERT)
-- Better than RNNs ... knows the context of the words
 
-<img src="images/book/sophia-ki/14-1_Transformer.jpeg" width="550">
+<img src="images/book/sophia-ki/14-1_Transformer.jpeg" width="400">
 
 ---
 
@@ -156,7 +157,7 @@ Learn how to paint a Horse ... got it :)
 - Data: Essential for training models
 - Quality & quantity affect performance
 
-<img src="images/book/sophia-ki/11-1_training-data.jpeg" width="600">
+<img src="images/book/sophia-ki/11-1_training-data.jpeg" width="400">
 
 ---
 

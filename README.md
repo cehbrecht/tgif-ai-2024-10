@@ -15,29 +15,20 @@ https://docs.google.com/presentation/d/1rXnAXwFT3BRMr5CnHzMYfpprsIN6-pS3/edit#sl
 This presentation uses [reveal-md](hhttps://github.com/webpro/reveal-md).
 See [documentation](https://github.com/webpro/reveal-md/blob/main/README.md) for installation.
 
-```
+```bash
 npm install -g reveal-md
 ```
 
 The slides `slides.md` are written in Markdown.
 
-You can generate the presentation with reveal-ck:
-```
-$ reveal-md slides.md
+You can generate the presentation with reveal-md:
+```bash
+reveal-md slides.md --theme white -w
 http://localhost:1948/slides.md#/
 ```
 
-## Using RevealJS
-
-See:
-https://github.com/hakimel/reveal.js/blob/master/README.md
-
 Export as PDF:
-* https://revealjs.com/pdf-export/
-* Open this URL and print: http://localhost:10000/?print-pdf
-
-
-Overview mode with `ESC`:
-https://github.com/hakimel/reveal.js/blob/master/README.md#overview-mode
-
+```bash
+reveal-md slides.md --print slides.pdf --print-size 1024x768 --theme white
+```
 
