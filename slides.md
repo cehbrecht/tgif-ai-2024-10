@@ -1,9 +1,9 @@
-# Overview of Artificial Intelligence
+# AI Basics
 **From Beginnings to Transformers**  
 Angelika & Carsten  
 TGIF 2024.10.25
 
-![AI learning](images/inet/janelle-nn-box.png)
+<img src="images/inet/janelle-nn-box.png" width="400">
 
 ---
 
@@ -12,7 +12,8 @@ TGIF 2024.10.25
 - Key areas: Machine Learning, NLP, Robotics
 - Importance: Automation, healthcare, decision-making
 
-![AI learning](images/book/janelle-ki/3-65_AI-learning.jpeg)
+<img src="images/book/janelle-ki/3-65_AI-learning.jpeg" width="500">
+
 
 ---
 
@@ -21,7 +22,7 @@ TGIF 2024.10.25
 - Techniques: k-means, hierarchical
 - Use cases: Customer segmentation, anomaly detection
 
-![Cluster plot](images/book/inga-ki/2-6_cluster.jpeg)
+<img src="images/book/inga-ki/2-6_cluster.jpeg" width="500">
 
 ---
 
@@ -31,7 +32,7 @@ TGIF 2024.10.25
 - Finds nearest neighbors, majority voting
 - Use cases: Image recognition, recommendations
 
-![KNN Cluster](images/book/sophia-ki/9-6_KNN-Cluster.jpeg)
+<img src="images/book/sophia-ki/9-6_KNN-Cluster.jpeg" width="500">
 
 ---
 
@@ -39,7 +40,8 @@ TGIF 2024.10.25
 - **Author:** Frank Rosenblatt (1957)
 - Simple neural network for binary classification
 
-![Simple NN](images/book/janelle-ki/3-71_NN-simple.jpeg)
+<img src="images/book/janelle-ki/3-71_NN-simple.jpeg" width="500">
+
 
 ---
 
@@ -47,7 +49,8 @@ TGIF 2024.10.25
 - Mimics brain to recognize patterns
 - Layers: Input, hidden, output
 
-![Neural Network](images/book/inga-ki/2-5_NN.jpeg)
+<img src="images/book/inga-ki/2-5_NN.jpeg" width="500">
+
 
 ---
 
@@ -55,21 +58,23 @@ TGIF 2024.10.25
 - Learning algorithm in NNs
 - Adjusts weights via gradient descent
 
-![NN Backpropagation](images/book/sophia-ki/12-0_NN-backpropagation.jpeg)
+<img src="images/book/sophia-ki/12-0_NN-backpropagation.jpeg" width="500">
+
 
 ---
 
 ## Supervised  Learning
 - Supervised: Labeled data (classification, regression)
 
-![NN supervised learning](images/book/sophia-ki/11-2_NN-supervised.jpeg)
+<img src="images/book/sophia-ki/11-2_NN-supervised.jpeg" width="500">
+
 
 ---
 
 ## Unsupervised Learning
 - Unsupervised: Unlabeled data (clustering, dimensionality reduction)
 
-![NN unsupervised learning](images/inet/unsupervised-learning.png)
+<img src="images/inet/unsupervised-learning.png" width="500">
 
 ---
 
@@ -77,14 +82,14 @@ TGIF 2024.10.25
 - Data compression, unsupervised learning
 - Use cases: Anomaly detection, feature learning
 
-![AutoEncoder](images/book/inga-ki/5-2_AutoEncoder.jpeg)
+<img src="images/book/inga-ki/5-2_AutoEncoder.jpeg" width="500">
 
 ---
 
 ## Autoencoder: Deepfake
 - Combine Cats and van Gogh
 
-![Cats and van Gogh](images/book/inga-ki/5-3_deepfake.jpeg)  
+<img src="images/book/inga-ki/5-3_deepfake.jpeg" width="500">
 
 ---
 
@@ -92,7 +97,8 @@ TGIF 2024.10.25
 - Two networks: Generator vs. Discriminator
 - Use cases: Image generation
 
-![GAN](images/book/inga-ki/5-1_GAN.jpeg)  
+<img src="images/book/inga-ki/5-1_GAN.jpeg" width="500">
+  
 
 ---
 
@@ -100,13 +106,14 @@ TGIF 2024.10.25
 - Learning to paint a Horse
 
 Start:
-![GAN start](images/book/janelle-ki/3-107_GAN-start.jpeg)
+<img src="images/book/janelle-ki/3-107_GAN-start.jpeg" width="500">
+
 
 Make progress:
-![GAN](images/book/janelle-ki/3-107_GAN.jpeg)
+<img src="images/book/janelle-ki/3-107_GAN.jpeg" width="500">
 
 Got it:
-![GAN ok](images/book/janelle-ki/3-107_GAN-ok.jpeg)  
+<img src="images/book/janelle-ki/3-107_GAN-ok.jpeg" width="500">
 
 ---
 
@@ -115,7 +122,7 @@ Got it:
 - Key concepts: Convolution, pooling
 - Use cases: Image recognition, object detection
 
-![CNN](images/book/janelle-ki/3-73_CNN-2.jpeg)
+<img src="images/book/janelle-ki/3-73_CNN-2.jpeg" width="500">
 
 ---
 
@@ -123,7 +130,8 @@ Got it:
 - Processes sequences, uses memory
 - Use cases: Time-series, NLP
 
-![RNN Structure](images/inet/RNN.png)
+<img src="images/inet/RNN.png" width="500">
+
 
 ---
 
@@ -131,7 +139,7 @@ Got it:
 - Self-attention mechanism
 - Revolutionized NLP (GPT, BERT)
 
-![Transformer](images/book/sophia-ki/14-1_Transformer.jpeg)
+<img src="images/book/sophia-ki/14-1_Transformer.jpeg" width="500">
 
 ---
 
@@ -140,7 +148,7 @@ Got it:
 - Quality & quantity affect performance
 - Data issues: Overfitting, bias
 
-![Training data](images/book/sophia-ki/11-1_training-data.jpeg)
+<img src="images/book/sophia-ki/11-1_training-data.jpeg" width="500">
 
 ---
 
