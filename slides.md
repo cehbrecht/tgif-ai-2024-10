@@ -132,8 +132,14 @@ Learn how to paint a Horse ... got it :)
 - Processes sequences, remembers last step
 - Use cases: Time-series, NLP
 
-<img src="images/inet/RNN.png" width="700">
+<img src="images/inet/RNN.png" height="400">
 
+---
+
+## RNN: unfold
+- Unfold over 3 time steps: t-1, t, t+1
+
+<img src="images/inet/RNN-unfold.png" height="400">
 
 ---
 
@@ -141,11 +147,11 @@ Learn how to paint a Horse ... got it :)
 - Self-attention mechanism
 - Revolutionized NLP (GPT, BERT)
 
-<img src="images/book/sophia-ki/14-1_Transformer.jpeg" width="500">
+<img src="images/book/sophia-ki/14-1_Transformer.jpeg" width="600">
 
 ---
 
-## AI is nothing without Data
+## No Data ... No AI
 - Data: Essential for training models
 - Quality & quantity affect performance
 
