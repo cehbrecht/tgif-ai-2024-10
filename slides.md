@@ -9,8 +9,8 @@ TGIF 2024.10.25
 
 ## Introduction to AI
 - AI = Machines simulating human intelligence
-- Key areas: Machine Learning, NLP, Robotics
-- Importance: Automation, healthcare, decision-making
+- Areas: Machine Learning, Natural Language Processing (NLP)
+- Techniques: Cluster Analysis, Neural Networks
 
 <img src="images/book/janelle-ki/3-65_AI-learning.jpeg" width="500">
 
@@ -19,18 +19,15 @@ TGIF 2024.10.25
 
 ## Cluster Analysis
 - Clustering: Grouping similar data points
-- Techniques: k-means, hierarchical
-- Use cases: Customer segmentation, anomaly detection
+- Techniques: K-Nearest Neighbors, k-means
 
-<img src="images/book/inga-ki/2-6_cluster.jpeg" width="500">
+<img src="images/book/inga-ki/2-6_cluster.jpeg" width="600">
 
 ---
 
 ## K-Nearest Neighbors (KNN)
 - **Authors:** Evelyn Fix & Joseph Hodges (1951)
-- Supervised classification
 - Finds nearest neighbors, majority voting
-- Use cases: Image recognition, recommendations
 
 <img src="images/book/sophia-ki/9-6_KNN-Cluster.jpeg" width="500">
 
@@ -40,97 +37,102 @@ TGIF 2024.10.25
 - **Author:** Frank Rosenblatt (1957)
 - Simple neural network for binary classification
 
-<img src="images/book/janelle-ki/3-71_NN-simple.jpeg" width="500">
-
+<img src="images/book/janelle-ki/3-71_NN-simple.jpeg" width="100%">
 
 ---
 
 ## Neural Networks (NN)
 - Mimics brain to recognize patterns
 - Layers: Input, hidden, output
+- Deep Learning: NN with many hidden layers
 
-<img src="images/book/inga-ki/2-5_NN.jpeg" width="500">
+<img src="images/book/inga-ki/2-5_NN.jpeg" width="100%">
 
 
 ---
 
 ## Backpropagation
 - Learning algorithm in NNs
-- Adjusts weights via gradient descent
+- Adjusts weights
 
-<img src="images/book/sophia-ki/12-0_NN-backpropagation.jpeg" width="500">
+<img src="images/book/sophia-ki/12-0_NN-backpropagation.jpeg" width="600">
 
 
 ---
 
 ## Supervised  Learning
-- Supervised: Labeled data (classification, regression)
+- Supervised: Labeled data
 
-<img src="images/book/sophia-ki/11-2_NN-supervised.jpeg" width="500">
+<img src="images/book/sophia-ki/11-2_NN-supervised.jpeg" width="700">
 
 
 ---
 
 ## Unsupervised Learning
-- Unsupervised: Unlabeled data (clustering, dimensionality reduction)
+- Unsupervised: Unlabeled data (clustering)
 
-<img src="images/inet/unsupervised-learning.png" width="500">
+<img src="images/inet/unsupervised-learning.png" width="100%">
 
 ---
 
 ## Autoencoders
 - Data compression, unsupervised learning
-- Use cases: Anomaly detection, feature learning
 
-<img src="images/book/inga-ki/5-2_AutoEncoder.jpeg" width="500">
+<img src="images/book/inga-ki/5-2_AutoEncoder.jpeg" width="100%">
 
 ---
 
 ## Autoencoder: Deepfake
-- Combine Cats and van Gogh
 
-<img src="images/book/inga-ki/5-3_deepfake.jpeg" width="500">
+<img src="images/book/inga-ki/5-3_deepfake.jpeg" width="570">
 
 ---
 
-## Generative Adversarial Networks (GANs)
+## GAN: Image generator
+- GAN: Generative Adversarial Networks
 - Two networks: Generator vs. Discriminator
-- Use cases: Image generation
 
-<img src="images/book/inga-ki/5-1_GAN.jpeg" width="500">
+<img src="images/book/inga-ki/5-1_GAN.jpeg" width="100%">
   
 
 ---
 
-## GAN in Action
-- Learning to paint a Horse
+## GAN in Action: 1
+Learn how to paint a Horse ... start randomly
 
-Start:
-<img src="images/book/janelle-ki/3-107_GAN-start.jpeg" width="500">
+<img src="images/book/janelle-ki/3-107_GAN-start.jpeg" width="100%">
 
-
-Make progress:
-<img src="images/book/janelle-ki/3-107_GAN.jpeg" width="500">
-
-Got it:
-<img src="images/book/janelle-ki/3-107_GAN-ok.jpeg" width="500">
 
 ---
 
-## Convolutional Neural Networks (CNNs)
+## GAN in Action: 2
+Learn how to paint a Horse ... making progress
+
+<img src="images/book/janelle-ki/3-107_GAN.jpeg" width="600">
+
+---
+
+## GAN in Action: 3
+Learn how to paint a Horse ... got it :)
+
+<img src="images/book/janelle-ki/3-107_GAN-ok.jpeg" width="100%">
+
+---
+
+## CNN
+- CNN = Convolutional Neural Networks
 - Designed for image processing
-- Key concepts: Convolution, pooling
-- Use cases: Image recognition, object detection
 
-<img src="images/book/janelle-ki/3-73_CNN-2.jpeg" width="500">
+<img src="images/book/janelle-ki/3-73_CNN-2.jpeg" width="100%">
 
 ---
 
-## Recurrent Neural Networks (RNNs)
-- Processes sequences, uses memory
+## RNN
+- RNN = Recurrent Neural Networks
+- Processes sequences, remembers last step
 - Use cases: Time-series, NLP
 
-<img src="images/inet/RNN.png" width="500">
+<img src="images/inet/RNN.png" width="700">
 
 
 ---
@@ -143,18 +145,11 @@ Got it:
 
 ---
 
-## Importance of Data in AI
+## AI is nothing without Data
 - Data: Essential for training models
 - Quality & quantity affect performance
-- Data issues: Overfitting, bias
 
-<img src="images/book/sophia-ki/11-1_training-data.jpeg" width="500">
-
----
-
-## Conclusion
-- AI: From perceptron to Transformers
-- Future: AGI, ethics, societal impact
+<img src="images/book/sophia-ki/11-1_training-data.jpeg" width="600">
 
 ---
 
